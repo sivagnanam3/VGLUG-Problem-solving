@@ -1,3 +1,4 @@
+#password program
 a=0
 while a==0:
     password=input("Enter your password:")
