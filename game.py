@@ -1,6 +1,8 @@
+#PYTHON PROGRAM FOR GAME 
 a=0
 while a<100:
     print(a)
+#PLEASE ENTER THE POSITION OF THE PLAYER
     p1=input("first person enter 1-10 no:")
     while not p1.isdigit():
         p1=input("first person your number is invalid plese enter vaild number(1-10):")
